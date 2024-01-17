@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "0",
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -119.39833632493625,
+              37.87978253744556
+            ],
+            [
+              -119.38843191294596,
+              37.89166783183391
+            ],
+            [
+              -119.34143097604655,
+              37.88023273799057
+            ],
+            [
+              -119.3392700134305,
+              37.87546061221342
+            ],
+            [
+              -119.34197121670057,
+              37.86528607989612
+            ],
+            [
+              -119.38816179261894,
+              37.86834744360221
+            ],
+            [
+              -119.39860644526325,
+              37.87627097319445
+            ],
+            [
+              -119.39860644526325,
+              37.87627097319445
+            ],
+            [
+              -119.39833632493625,
+              37.87978253744556
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "OBJECTID": 99917033.0,
+        "AREA_ACRE": null,
+        "STATE": "",
+        "ID": "",
+        "HUC12": "",
+        "OWNERSHIP": "",
+        "EDGE_COMPL": null,
+        "DOM_ROCKTY": "",
+        "VEG_MAJORI": "",
+        "COKEY": "",
+        "Kf": null,
+        "ClayTot_r": null,
+        "MUKEY": "",
+        "SOIL_SURVE": "",
+        "COMP_NAME": "",
+        "ELEV_MEAN": null,
+        "ELEV_RANGE": null,
+        "LAT_DD": null,
+        "LONG_DD": null,
+        "ED_MIN_LAK": null,
+        "ED_MIN_FLO": null,
+        "ED_MIN_SEE": null,
+        "HGM_TYPE": "",
+        "uniqueID": null,
+        "MDW_DEM_SL": null,
+        "ED_MIN_FSt": null,
+        "ED_MIN_F_1": null,
+        "POUR_POINT": null,
+        "POUR_POI_1": null,
+        "StreamSlop": null,
+        "MDW_CATCHM": null,
+        "SHAPE_Leng": null,
+        "SHAPE_Area": null,
+        "area": null,
+        "perimeter": null,
+        "NUMPOINTS": null
+      }
+    }
+  ]
+}
