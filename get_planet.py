@@ -310,7 +310,7 @@ def order_payload(Name_download, ID_imgs, File_geom):
             {  
                 "item_ids":ID_imgs,#idlist,
                 "item_type":"PSScene",#"PSScene4Band",
-                "product_bundle": "analytic_udm2"#""
+                "product_bundle": "analytic_sr_udm2"#"analytic_udm2"#""
             }
         ],
         "tools": [
